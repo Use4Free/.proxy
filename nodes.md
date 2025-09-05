@@ -20,7 +20,7 @@ public proxy node - gather and store @ [.proxy](https://github.com/mheidari98/.p
 | ✅ | 2 | 2h |https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/ssr/ssrsub|
 | ✅ | 4 | 2h |https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/v2ray/v2raysub|
 | ❌ | 0 | idk |https://bn-chanll.cf/sub/ss|
-| ✅ | 131 | 8h |https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray|
+| ✅ | 199 | 8h |https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray|
 | ✅ | 0 | idk |https://rentry.co/cyru55/raw|
 | ❌ | 0 | idk |https://freefq.neocities.org/free.txt|
 | ❌ | 0 | idk |https://proxy.yugogo.xyz/sip002/sub|
@@ -35,7 +35,7 @@ public proxy node - gather and store @ [.proxy](https://github.com/mheidari98/.p
 | ✅ | 79 | 3h |https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.txt|
 | ✅ | 75 | 4h |https://raw.githubusercontent.com/ts-sf/fly/main/v2|
 | ✅ | 562 | 8h |https://raw.githubusercontent.com/WilliamStar007/ClashX-V2Ray-TopFreeProxy/main/combine/v2ray.config.txt|
-| ✅ | 17 | 12h |https://raw.githubusercontent.com/HakurouKen/free-node/main/public|
+| ✅ | 3 | 12h |https://raw.githubusercontent.com/HakurouKen/free-node/main/public|
 | ✅ | 6 | 1d |https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt|
 | ✅ | 32 | 1d |https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/v2ray.txt|
 | ❌ | 0 | 1d |https://raw.githubusercontent.com/xieshunxi1/subscribe_clash_v2ray/main/subscribe/v2ray.txt|
