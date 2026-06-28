@@ -8,7 +8,7 @@ public proxy node - gather and store @ [.proxy](https://github.com/mheidari98/.p
 | ✅ | 51 | 4h |https://raw.githubusercontent.com/wrfree/free/main/README.md|
 | ❌ | 0 | 6h |https://raw.githubusercontent.com/mianfeifq/share/main/README.md|
 | ✅ | 634 | 1d |https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/README.md|
-| ✅ | 20 | 1h |https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub|
+| ✅ | 19 | 1h |https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub|
 | ✅ | 5285 | 12h |https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge_base64.txt|
 | ✅ | 200 | 12h |https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/Eternity|
 | ✅ | 61 |2h |https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/airport_merge_base64.txt|
@@ -36,11 +36,11 @@ public proxy node - gather and store @ [.proxy](https://github.com/mheidari98/.p
 | ✅ | 136 | 4h |https://raw.githubusercontent.com/ts-sf/fly/main/v2|
 | ✅ | 562 | 8h |https://raw.githubusercontent.com/WilliamStar007/ClashX-V2Ray-TopFreeProxy/main/combine/v2ray.config.txt|
 | ✅ | 15 | 12h |https://raw.githubusercontent.com/HakurouKen/free-node/main/public|
-| ✅ | 21 | 1d |https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt|
+| ✅ | 29 | 1d |https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt|
 | ✅ | 32 | 1d |https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/v2ray.txt|
 | ❌ | 0 | 1d |https://raw.githubusercontent.com/xieshunxi1/subscribe_clash_v2ray/main/subscribe/v2ray.txt|
 | ✅ | 838 | idk |https://raw.githubusercontent.com/mostafasadeghifar/v2ray-config/main/config_file.txt|
-| ✅ | 64 | idk |https://raw.githubusercontent.com/Ashkan-m/v2ray/main/Sub.txt|
+| ✅ | 28 | idk |https://raw.githubusercontent.com/Ashkan-m/v2ray/main/Sub.txt|
 | ❌ | 0 | idk |https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/mix|
 | ❌ | 0 | idk |https://config.elaheniloofar.link|
 | ❌ | 0 | idk |https://tackserver-code.ir/api/json/mrpooya.xyz.json|
