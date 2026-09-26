@@ -35,8 +35,8 @@ public proxy node - gather and store @ [.proxy](https://github.com/mheidari98/.p
 | ✅ | 54 | 3h |https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.txt|
 | ✅ | 201 | 4h |https://raw.githubusercontent.com/ts-sf/fly/main/v2|
 | ✅ | 562 | 8h |https://raw.githubusercontent.com/WilliamStar007/ClashX-V2Ray-TopFreeProxy/main/combine/v2ray.config.txt|
-| ✅ | 18 | 12h |https://raw.githubusercontent.com/HakurouKen/free-node/main/public|
-| ✅ | 105 | 1d |https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt|
+| ✅ | 17 | 12h |https://raw.githubusercontent.com/HakurouKen/free-node/main/public|
+| ✅ | 131 | 1d |https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt|
 | ✅ | 8 | 1d |https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/v2ray.txt|
 | ❌ | 0 | 1d |https://raw.githubusercontent.com/xieshunxi1/subscribe_clash_v2ray/main/subscribe/v2ray.txt|
 | ✅ | 838 | idk |https://raw.githubusercontent.com/mostafasadeghifar/v2ray-config/main/config_file.txt|
