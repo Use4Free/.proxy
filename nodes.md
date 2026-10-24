@@ -32,9 +32,9 @@ public proxy node - gather and store @ [.proxy](https://github.com/mheidari98/.p
 | ✅ | 548 | 3h |https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription_num|
 | ✅ | 0 | 1h |https://raw.githubusercontent.com/a2470982985/getNode/main/v2ray.txt|
 | ✅ | 232 | 1h |https://raw.githubusercontent.com/ZywChannel/free/main/sub|
-| ✅ | 386 | 3h |https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.txt|
+| ✅ | 394 | 3h |https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.txt|
 | ✅ | 201 | 4h |https://raw.githubusercontent.com/ts-sf/fly/main/v2|
-| ✅ | 1380 | 8h |https://raw.githubusercontent.com/WilliamStar007/ClashX-V2Ray-TopFreeProxy/main/combine/v2ray.config.txt|
+| ✅ | 1459 | 8h |https://raw.githubusercontent.com/WilliamStar007/ClashX-V2Ray-TopFreeProxy/main/combine/v2ray.config.txt|
 | ✅ | 88 | 12h |https://raw.githubusercontent.com/HakurouKen/free-node/main/public|
 | ✅ | 474 | 1d |https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt|
 | ✅ | 14 | 1d |https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/v2ray.txt|
