@@ -8,8 +8,8 @@ public proxy node - gather and store @ [.proxy](https://github.com/mheidari98/.p
 | ✅ | 51 | 4h |https://raw.githubusercontent.com/wrfree/free/main/README.md|
 | ❌ | 0 | 6h |https://raw.githubusercontent.com/mianfeifq/share/main/README.md|
 | ✅ | 20 | 1d |https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/README.md|
-| ✅ | 11 | 1h |https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub|
-| ✅ | 4371 | 12h |https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge_base64.txt|
+| ✅ | 13 | 1h |https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub|
+| ✅ | 4420 | 12h |https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge_base64.txt|
 | ✅ | 200 | 12h |https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/Eternity|
 | ✅ | 61 |2h |https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/airport_merge_base64.txt|
 | ✅ | 61 |2h |https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/EternityAir|
@@ -34,7 +34,7 @@ public proxy node - gather and store @ [.proxy](https://github.com/mheidari98/.p
 | ✅ | 232 | 1h |https://raw.githubusercontent.com/ZywChannel/free/main/sub|
 | ✅ | 402 | 3h |https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.txt|
 | ✅ | 201 | 4h |https://raw.githubusercontent.com/ts-sf/fly/main/v2|
-| ✅ | 1009 | 8h |https://raw.githubusercontent.com/WilliamStar007/ClashX-V2Ray-TopFreeProxy/main/combine/v2ray.config.txt|
+| ✅ | 1314 | 8h |https://raw.githubusercontent.com/WilliamStar007/ClashX-V2Ray-TopFreeProxy/main/combine/v2ray.config.txt|
 | ✅ | 140 | 12h |https://raw.githubusercontent.com/HakurouKen/free-node/main/public|
 | ✅ | 456 | 1d |https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt|
 | ✅ | 10 | 1d |https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/v2ray.txt|
